@@ -1,0 +1,4 @@
+# build outputs of model.py
+*.stl
+*.3mf
+*.png
