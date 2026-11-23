@@ -1,0 +1,10 @@
+# build outputs of model.py / plates.py
+*.stl
+*.3mf
+*.glb
+*.png
+*.zip
+parts/
+plates/
+multicolor/
+joint_ranges.json
